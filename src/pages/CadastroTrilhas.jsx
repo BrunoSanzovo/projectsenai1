@@ -4,12 +4,6 @@ import { TrilhasContext } from "../context/TrilhasContext";
 import { useNavigate } from "react-router-dom";
 
 
-// Passo 1 - Importar o hook useForm e em sequência desestruturar o retorno para utilizar a função register
-// Passo 2 - Registrar os campos incluindo a validação
-// Passo 3 - Criar a função de submissão
-// Passo 4 - Capturar a função jandleSubmit do retorno do hook useForm
-// Passo 5 - Passar o valor da prop onSubmit do form como a handleSubmit e como parâmetro da handleSubmit a função personalizada de envio do formulário (nesse caso sendForm)
-
 function CadastroTrilhas(){
     const { register, handleSubmit, formState: {errors} } = useForm();
     // uso do contexto
