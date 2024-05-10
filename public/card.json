@@ -1,0 +1,39 @@
+{
+  "trilhasJson": [
+    {
+      "nomeTrilha": "Trilha da Costa da Lagoa",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "duracao": 120,
+      "trajeto": 1,
+      "dificuldade": "média",
+      "tipo": "caminhada / trekking",
+      "nomeUsuario": "Sanzovo o próprio",
+      "urlImagem": "https://projetocolabora.com.br/wp-content/uploads/2017/03/trilha-mirante-do-horto-trecho-17-foto-marcello-cavalcanti-e1487268169424.jpg"
+    },
+    {
+        "nomeTrilha": "Trilha Naufragados",
+        "cidade": "Florianópolis",
+        "estado": "SC",
+        "duracao": 40,
+        "trajeto": 2,
+        "dificuldade": "iniciante",
+        "tipo": "caminhada / trekking",
+        "nomeUsuario": "Bruno Sanzovo",
+        "urlImagem": "https://s2.glbimg.com/fa_-53X9NwmhUemy1wpkbipil8c=/620x466/smart/e.glbimg.com/og/ed/f/original/2020/10/13/trilha-getty-images-trilhas-em-sp-opcoes-pandemia.jpg"
+    },
+    {
+        "nomeTrilha": "Trilha barra da lagoa",
+        "cidade": "Florianópolis",
+        "estado": "SC",
+        "duracao": 25,
+        "trajeto": 3,
+        "dificuldade": "iniciante",
+        "tipo": "caminhada / trekking",
+        "nomeUsuario": "Bruno Senzovo",
+        "urlImagem": "https://camelbaktrainingclub.com.br/wp-content/uploads/2022/08/Dicas-para-a-sua-primeira-trilha_CamelBak-Training-Club-p.jpg"
+    }
+    
+    
+  ]
+}
